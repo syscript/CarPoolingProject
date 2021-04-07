@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-grid.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-grid.css.map')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-grid.min.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-grid.min.css.map')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-reboot.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-reboot.css.map')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-reboot.min.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap-reboot.min.css.map')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap.css.map')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap.min.css')}}">
+<link rel="stylesheet" href="{{URL::asset('publicCss/bootstrap.min.css.map')}}">
